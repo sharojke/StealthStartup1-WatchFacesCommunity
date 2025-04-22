@@ -63,4 +63,6 @@
 Watch Faces Club is an application that helps people decorate their watches with *Watch Faces*, create and share new ones!
 The main idea is that users can create their own watch faces and share them with the community!
 
+[Link to to the App Store](https://apps.apple.com/pl/app/watch-faces-widgets-gallery/id6498901400)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
