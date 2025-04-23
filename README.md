@@ -131,3 +131,113 @@ Users have the ability to create and edit watch faces:
 | *Editing watch faces with complications* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Community Features
+
+Users can register in the app in order to publish their watch faces in the community, like, report and share other watch faces.
+
+| <img title="Viewing the profile 1" src="/Resources/GIF/viewing-profile-1.gif" width="200"/> &nbsp;&nbsp; <img title="Viewing the profile 0" src="/Resources/GIF/viewing-profile-0.gif" width="200"/> |
+|:--:|
+| *Viewing profile watch faces and settings* |
+
+| <img title="" src="/Resources/GIF/sharing-dial.gif" width="200"/> &nbsp;&nbsp; <img title="" src="/Resources/GIF/universal-link-handling.gif" width="200"/> |
+|:--:|
+| *Sharing a universal link to the watch face* |
+
+| <img title="" src="/Resources/GIF/reporting-dial.gif" width="200"/> |
+|:--:|
+| *Reporting a watch face* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Instructions
+
+The way the watch faces are installed and operated is quite complicated, so there are many different instructions that help users avoid pressing the Support button :)
+
+| <img title="" src="/Resources/Images/all-instructions.PNG" width="200"/> &nbsp;&nbsp; <img title="" src="/Resources/GIF/viewing-instructions.gif" width="200"/> |
+|:--:|
+| *Viewing Instructions* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### In-App Purchase
+
+To monetize the app, we have advertising and in-app purchases. Here you can see various subscription options, including LTO (limited-time offer) and onboarding.
+
+| <img title="" src="/Resources/GIF/onboarding-subscription.gif" width="200"/> &nbsp;&nbsp; <img title="" src="/Resources/Images/subscription-2.PNG" width="200"/> &nbsp;&nbsp; <img title="" src="/Resources/GIF/lto.gif" width="200"/> |
+|:--:|
+| *Onboarding and Subcriptions* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Watch App
+
+The watch app is used to quickly and conveniently make settings, process permissions, and also as a progress indicator when loading watch faces with complications.
+
+| <img title="" src="/Resources/Images/watch-app-1.PNG" width="200"/> &nbsp;&nbsp; <img title="" src="/Resources/Images/watch-app-0.PNG" width="200"/> &nbsp;&nbsp; <img title="" src="/Resources/Images/watch-app-2.PNG" width="200"/> |
+|:--:|
+| *Main Watch App screens* |
+
+https://github.com/user-attachments/assets/0b243e74-3112-43f0-842f-b5ceec2d8a4f
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Company
+
+Uniapps is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Team Composition
+
+- 1 **Product** manager
+- 1 **UI/UX** Designer
+- 1 **Content** Manager
+- 2-4 **iOS** Developers
+- 1 **Backend** Developer
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Life Span
+
+*May 2023 - present*  
+The development of the application began in May 2023.  
+The creation of the basic functionality was completed in June 2024. Minor functionality is still being supported and added.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## My Participation
+
+### Responsibilities
+
+- Participation in the creation of the project ***from scratch***.
+- Leading the iOS team.
+- Onboarding of the content manager and the backend developer.
+- Tasks decomposition, delegation and sprints management.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Skills and Technologies
+
+- Swift;
+- MVP+Router;
+- ClockKit, WatchKit, SwiftUI, WidgetKit, UIKit;
+- WatchConnectivity, HealthKit, CoreMotion;
+- UIHostingController, UINavigationControllerDelegate (Custom Transitions), AVFoundation;
+- ShareExtension, Deeplinks, Universal Links;
+- UserNotifications, Multithreading;
+- Moya, Adapty, Firebase, Alamofire;
+- Mixpanel, Amplitude, YandexMobileMetrica;
+- GoogleMobileAds, YandexMobileAds;
+- UnsplashPhotoPicker, GiphyUISDK;
+- OpenWeatherMap, ipinfo.io, localise.biz.
+- Fastlane, Bitrise, Git, Sourcetree, Figma, Tilda;
+- Jira, Flow (Po­mo­­doro timer), Sublime.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
