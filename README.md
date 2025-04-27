@@ -5,20 +5,11 @@
 
 <br />
 <div align="center">
-  <img title="App Icon" src="/Resources/Images/app-icon-wide.PNG" alt="Logo" height="200">
-  
+  <img title="App Icon" src="/Resources/Images/WatchFacesClub-wide.jpg" alt="Logo" height="200">
   <h3 align="center">Watch Faces Club</h3>
-  
-  <p align="center">
-    <em>
-      An application that helps people decorate their apple watches, create and share new watch faces with the community
-    </em>
-  </p>
 </div>
 
-
-
-
+[Link to the AppStore](https://apps.apple.com/app/watch-faces-widgets-gallery/id6498901400)
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,8 +51,6 @@
 
 Watch Faces Club is an application that helps people decorate their watches with *Watch Faces*, create and share new ones!
 The main idea is that users can create their own watch faces and share them with the community!
-
-[Link to the AppStore.](https://apps.apple.com/app/watch-faces-widgets-gallery/id6498901400)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,6 +168,8 @@ The watch app is used to quickly and conveniently make settings, process permiss
 | *Main Watch App screens* |
 
 https://github.com/user-attachments/assets/0b243e74-3112-43f0-842f-b5ceec2d8a4f
+
+<video src="https://github.com/sharojke/Uniapps-WatchFacesClub/blob/main/Resources/MP4/dial-complications-installation.mp4" controls></video>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
