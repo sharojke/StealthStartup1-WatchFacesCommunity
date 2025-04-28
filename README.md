@@ -40,7 +40,7 @@
 
 ## About The Project
 
-Watch Faces Club is an application that helps people decorate their watches with *Watch Faces*, create and share new ones!
+Watch Faces Club is an application that helps people decorate their apple watches, create and share new ones!
 The main idea is that users can create their own watch faces and share them with the community!
 
 The development of the application began in May 2023.  
