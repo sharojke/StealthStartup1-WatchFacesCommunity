@@ -194,7 +194,7 @@ Skills and Technologies:
 - Mixpanel, Amplitude, YandexMobileMetrica
 - GoogleMobileAds, YandexMobileAds
 - UnsplashPhotoPicker, GiphyUISDK
-- OpenWeatherMap, ipinfo.io, localise.biz
+- OpenWeatherMap, ipinfo.io, localise.biz, swiftlint
 - UnitTests, SnapshotTests
 - Fastlane, Bitrise, Git, Sourcetree, Figma
 - Jira, Flow (Po­mo­­doro timer)
