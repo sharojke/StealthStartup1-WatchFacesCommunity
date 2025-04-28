@@ -187,7 +187,7 @@ Responsibilities:
 Skills and Technologies:
 - Swift
 - MVP+Router
-- ClockKit, WatchKit, SwiftUI, WidgetKit, UIKit
+- ClockKit, WatchKit, SwiftUI, WidgetKit, UIKit, SnapKit
 - WatchConnectivity, HealthKit, CoreMotion
 - ShareExtension, DeepLinks, UniversalLinks
 - Moya, Adapty, Firebase
