@@ -15,28 +15,22 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#description">Description</a></li>
-          <ul>
-            <li><a href="#watch-faces">Watch Faces</a></li>
-            <li><a href="#support-for-all-possible-watch-series-and-watch-os">Support for all possible Watch Series and watch OS</a></li>
-            <li><a href="#creating-and-editing-watch-faces">Creating and Editing Watch Faces</a></li>
-            <li><a href="#community-features">Community Features</a></li>
-            <li><a href="#instructions">Instructions</a></li>
-            <li><a href="#in-app-purchase">In-App Purchase</a></li>
-            <li><a href="#watch-app">Watch App</a></li>
-          </ul>
-        <li><a href="#company">Company</a></li>
-        <li><a href="#team-composition">Team Composition</a></li>
-        <li><a href="#life-span">Life Span</a></li>
+        <ul>
+          <li><a href="#watch-faces">Watch Faces</a></li>
+          <li><a href="#support-for-all-possible-watch-series-and-watch-os">Support for all possible Watch Series and watch OS</a></li>
+          <li><a href="#creating-and-editing-watch-faces">Creating and Editing Watch Faces</a></li>
+          <li><a href="#community-features">Community Features</a></li>
+          <li><a href="#instructions">Instructions</a></li>
+          <li><a href="#in-app-purchase">In-App Purchase</a></li>
+          <li><a href="#watch-app">Watch App</a></li>
+        </ul>
       </ul>
     </li>
     <li>
-      <a href="#my-participation">My Participation</a>
-      <ul>
-        <li><a href="#responsibilities">Responsibilities</a></li>
-        <li><a href="#skills-and-technologies">Skills and Technologies</a></li>
-      </ul>
+      <a href="#about-my-participation">About My Participation</a>
+    </li>
+    <li>
+      <a href="#about-the-company">About The Company</a>
     </li>
   </ol>
 </details>
@@ -46,15 +40,22 @@
 
 ## About The Project
 
-
-### Description
-
 Watch Faces Club is an application that helps people decorate their watches with *Watch Faces*, create and share new ones!
 The main idea is that users can create their own watch faces and share them with the community!
 
+The development of the application began in May 2023.  
+The creation of the basic functionality was completed in June 2024. Minor functionality is still being supported and added.
+
+Team Composition:
+- 1 **Product** manager
+- 1 **UI/UX** Designer
+- 1 **Content** Manager
+- 2-4 **iOS** Developers
+- 1 **Backend** Developer
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Watch Faces
+### Watch Faces
 
 Watch Face Viewing Screens:
 
@@ -87,7 +88,7 @@ Complications Data:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Support for all possible Watch Series and watch OS
+### Support for all possible Watch Series and watch OS
 
 The app supports all possible apple watches, as well as all watchOS.
 
@@ -97,7 +98,7 @@ The app supports all possible apple watches, as well as all watchOS.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Creating and Editing Watch Faces
+### Creating and Editing Watch Faces
 
 Users have the ability to create and edit watch faces:
 
@@ -121,7 +122,7 @@ Users have the ability to create and edit watch faces:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Community Features
+### Community Features
 
 Users can register in the app in order to publish their watch faces in the community, like, report and share other watch faces.
 
@@ -139,7 +140,7 @@ Users can register in the app in order to publish their watch faces in the commu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Instructions
+### Instructions
 
 The way the watch faces are installed and operated is quite complicated, so there are many different instructions that help users avoid pressing the Support button :)
 
@@ -149,7 +150,7 @@ The way the watch faces are installed and operated is quite complicated, so ther
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### In-App Purchase
+### In-App Purchase
 
 To monetize the app, we have advertising and in-app purchases. Here you can see various subscription options, including LTO (limited-time offer) and onboarding.
 
@@ -159,7 +160,7 @@ To monetize the app, we have advertising and in-app purchases. Here you can see 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Watch App
+### Watch App
 
 The watch app is used to quickly and conveniently make settings, process permissions, and also as a progress indicator when loading watch faces with complications.
 
@@ -171,62 +172,53 @@ https://github.com/user-attachments/assets/0b243e74-3112-43f0-842f-b5ceec2d8a4f
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Company
+
+
+
+## About My Participation
+
+Responsibilities:
+- Participation in the creation of the project **from scratch**
+- Leading the iOS team
+- Onboarding of the content manager and the backend developer
+- Tasks decomposition, delegation and sprints management
+
+
+Skills and Technologies:
+- Swift
+- MVP+Router
+- ClockKit, WatchKit, SwiftUI, WidgetKit, UIKit
+- WatchConnectivity, HealthKit, CoreMotion
+- ShareExtension, DeepLinks, UniversalLinks
+- Moya, Adapty, Firebase
+- Mixpanel, Amplitude, YandexMobileMetrica
+- GoogleMobileAds, YandexMobileAds
+- UnsplashPhotoPicker, GiphyUISDK
+- OpenWeatherMap, ipinfo.io, localise.biz
+- Fastlane, Bitrise, Git, Sourcetree, Figma
+- Jira, Flow (Po­mo­­doro timer)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## About The Company
 
 Uniapps is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Team Composition
-
-- 1 **Product** manager
-- 1 **UI/UX** Designer
-- 1 **Content** Manager
-- 2-4 **iOS** Developers
-- 1 **Backend** Developer
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Life Span
-
-*May 2023 - present*  
-The development of the application began in May 2023.  
-The creation of the basic functionality was completed in June 2024. Minor functionality is still being supported and added.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-## My Participation
-
-### Responsibilities
-
-- Participation in the creation of the project ***from scratch***.
-- Leading the iOS team.
-- Onboarding of the content manager and the backend developer.
-- Tasks decomposition, delegation and sprints management.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Skills and Technologies
-
-- Swift;
-- MVP+Router;
-- ClockKit, WatchKit, SwiftUI, WidgetKit, UIKit;
-- WatchConnectivity, HealthKit, CoreMotion;
-- UIHostingController, UINavigationControllerDelegate (Custom Transitions), AVFoundation;
-- ShareExtension, Deeplinks, Universal Links;
-- UserNotifications, Multithreading;
-- Moya, Adapty, Firebase, Alamofire;
-- Mixpanel, Amplitude, YandexMobileMetrica;
-- GoogleMobileAds, YandexMobileAds;
-- UnsplashPhotoPicker, GiphyUISDK;
-- OpenWeatherMap, ipinfo.io, localise.biz.
-- Fastlane, Bitrise, Git, Sourcetree, Figma, Tilda;
-- Jira, Flow (Po­mo­­doro timer), Sublime.
-
+Other projects of the company I've worked on:
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/SoundAmplifier.PNG" height="35" />
+    <a href="https://github.com/sharojke/Uniapps-SoundAmplifier"> Sound Amplifier </a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces2.png" height="35" />
+    <a href="https://github.com/sharojke/Startup1-WatchFaces2"> Watch Faces #2 </a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" height="35" />
+    <a href="https://github.com/sharojke/Startup1-WatchFaces1"> Watch Faces #1 </a>
+  </p>
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
