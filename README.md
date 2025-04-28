@@ -195,6 +195,7 @@ Skills and Technologies:
 - GoogleMobileAds, YandexMobileAds
 - UnsplashPhotoPicker, GiphyUISDK
 - OpenWeatherMap, ipinfo.io, localise.biz
+- UnitTests, SnapshotTests
 - Fastlane, Bitrise, Git, Sourcetree, Figma
 - Jira, Flow (Po­mo­­doro timer)
 
