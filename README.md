@@ -169,8 +169,6 @@ The watch app is used to quickly and conveniently make settings, process permiss
 
 https://github.com/user-attachments/assets/0b243e74-3112-43f0-842f-b5ceec2d8a4f
 
-<video src="https://github.com/sharojke/Uniapps-WatchFacesClub/blob/main/Resources/MP4/dial-complications-installation.mp4" controls></video>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Company
