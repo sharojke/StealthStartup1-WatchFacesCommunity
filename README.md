@@ -5,11 +5,10 @@
 
 <br />
 <div align="center">
-  <img title="App Icon" src="/Resources/Images/WatchFacesClub-wide.jpg" alt="Logo" height="200">
-  <h3 align="center">Watch Faces Club</h3>
+  <img title="App Icon" src="/Resources/Images/Watch Faces Community logo.jpg" alt="Logo" height="200" width="355">
+  <h3 align="center"></h3>
 </div>
 
-[Link to the AppStore](https://apps.apple.com/app/watch-faces-widgets-gallery/id6498901400)
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -40,7 +39,7 @@
 
 ## About The Project
 
-Watch Faces Club is an application that helps people decorate their apple watches, create and share new ones!
+Watch Faces Community is an application that helps people decorate their apple watches, create and share new ones!
 The main idea is that users can create their own watch faces and share them with the community!
 
 The development of the application began in May 2023.  
@@ -206,20 +205,23 @@ Skills and Technologies:
 
 ## About The Company
 
-**[Uniapps](https://www.linkedin.com/company/uniappsmobi/)** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+**Stealth Startup** is a young product company that appeared in 2022. Some information about the company and its products is under NDA.
 
 Other projects of the company I've worked on:
 - <p align="left">
-    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/SoundAmplifier.png" height="35" />
-    <a href="https://github.com/sharojke/Uniapps-SoundAmplifier"> Sound Amplifier </a>
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/StealthStartup1/StealthStartup1-SoundAmplifier.png" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-SoundAmplifier"> Sound Amplifier</a>
+    <a>is an application that provides a quick hearing test and offers personalized sound enhancement to help you hear more clearly and comfortably.</a>
   </p>
 - <p align="left">
-    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces2.png" height="35" />
-    <a href="https://github.com/sharojke/Startup1-WatchFaces2"> Watch Faces #2 </a>
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-WatchFacesForAppleWatch"> Watch Faces For Apple Watch</a>
+    <a>is an application that helps people decorate their apple watches.</a>
   </p>
 - <p align="left">
-    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" height="35" />
-    <a href="https://github.com/sharojke/Startup1-WatchFaces1"> Watch Faces #1 </a>
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-WatchFacesGallery"> Watch Faces Gallery</a>
+    <a>is an application that helps people decorate their apple watches.</a>
   </p>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
